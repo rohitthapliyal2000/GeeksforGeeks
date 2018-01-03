@@ -44,16 +44,16 @@
     https://www.geeksforgeeks.org/int_max-int_min-cc-applications/
 
 16) Compute average of two large numbers without overflow
-	  https://www.geeksforgeeks.org/compute-average-two-numbers-without-overflow/
+    https://www.geeksforgeeks.org/compute-average-two-numbers-without-overflow/
 
 17) map vs unordered_map in C++
-	  https://www.geeksforgeeks.org/map-vs-unordered_map-c/
+    https://www.geeksforgeeks.org/map-vs-unordered_map-c/
 
 18) Find element at given index after given range reversals
-	  https://www.geeksforgeeks.org/find-element-given-index-given-range-reversals/
+    https://www.geeksforgeeks.org/find-element-given-index-given-range-reversals/
 
 19) Find element at given index after a number of rotations
-	  https://www.geeksforgeeks.org/find-element-given-index-number-rotations/
+    https://www.geeksforgeeks.org/find-element-given-index-number-rotations/
 
 20) Computing INT_MAX and INT_MIN with Bitwise operations
-	  https://www.geeksforgeeks.org/computing-int_max-int_min-bitwise-operations/
+    https://www.geeksforgeeks.org/computing-int_max-int_min-bitwise-operations/
